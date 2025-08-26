@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ironbook-a2a-extension"
-version = "0.0.1"
+version = "0.0.3"
 description = "Python A2A extension for Iron Book by Identity Machines"
 readme = "README.md"
 license = "MIT"
