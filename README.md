@@ -4,6 +4,10 @@
 
 This extension defines how to enable Iron Book's zero trust policy-based access control for agents.
 
+## Drop-In Implementation Sample with 2 Agents
+
+https://github.com/identitymachines/a2a_ironbook
+
 ## Extension URI
 
 The URI of this extension is `https://github.com/identitymachines/ironbook-a2a-extension/v1`.
