@@ -19,8 +19,6 @@ This is the only URI accepted for this extension.
 Messages from the client agent MUST include the following metadata fields:
 - Agent DID: `https://github.com/identitymachines/ironbook-a2a-extension/v1/agent-did`
 - Auth token: `https://github.com/identitymachines/ironbook-a2a-extension/v1/auth-token`
-- Action: `https://github.com/identitymachines/ironbook-a2a-extension/v1/action`
-- Resource: `https://github.com/identitymachines/ironbook-a2a-extension/v1/resource`
 - Context: `https://github.com/identitymachines/ironbook-a2a-extension/v1/context`
 
 ## Process
